@@ -62,4 +62,6 @@ Ask `get my current blood sugar`:
 ![alt text](images/Blood%20Sugar%20Current.png "Current blood sugar example")
 
 Ask Claude to work with your data `draw a graph on my blood sugar history`:
-![alt text](images/Blood%20Sugar%20History.png "Blood sugar history example query")
+![alt text](images/Blood%20Sugar%20History%20Code.png "Blood sugar history example query")
+Created graph:
+![alt text](images/Blood%20Sugar%20History%20Graph.png "Blood sugar history example query")
