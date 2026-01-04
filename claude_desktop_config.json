@@ -1,0 +1,30 @@
+{
+    "mcpServers": {
+        "blood_sugar_history": {
+            "command": "uv",
+            "args": [
+                "--directory",
+                "/PATH/TO/CODE/DIRECTORY",
+                "run",
+                "main.py"
+            ],
+            "env": {
+                "API_USERNAME": "username@youremail.com",
+                "API_PASSWORD": "supersecret"
+            }
+        },
+        "blood_sugar": {
+            "command": "uv",
+            "args": [
+                "--directory",
+                "/PATH/TO/CODE/DIRECTORY",
+                "run",
+                "main.py"
+            ],
+            "env": {
+                "API_USERNAME": "username@youremail.com",
+                "API_PASSWORD": "supersecret"
+            }
+        }
+    }
+}
